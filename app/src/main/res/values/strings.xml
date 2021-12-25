@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Nechaev-v-26</string>
+    <string name="pr">Привет!</string>
+    <string name="time">20:00</string>
+    <string name="dlya">Для входа введите кодовый рисунок</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="kon">Контакты</string>
+    <string name="isk">Искать в 61 контакте</string>
+    <string name="any">Аня</string>
+    <string name="alb">Альбина</string>
+    <string name="ant">Антон</string>
+    <string name="bab">Бабушка</string>
+    <string name="bor">Борис</string>
+    <string name="todo31">TODO</string>
+    <string name="todo32">TODO</string>
+    <string name="todo33">TODO</string>
+    <string name="todo35">TODO</string>
+    <string name="todo36">TODO</string>
+    <string name="todo37">TODO</string>
+    <string name="todo38">TODO</string>
+    <string name="button4321">Button</string>
+</resources>
